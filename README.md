@@ -73,9 +73,11 @@ I enjoy turning ideas into **functional, visually appealing, and well-structured
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Riya-solanki&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Riya-solanki&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-solanki&theme=tokyonight&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riya-solanki&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Riya-solanki&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-solanki&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
