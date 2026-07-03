@@ -57,7 +57,7 @@ Coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Riya-solanki&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Riya-solanki&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=Riya-solanki&theme=default&hide_border=true&timezone=Asia/Kolkata" height="165"/>
 </div>
 
