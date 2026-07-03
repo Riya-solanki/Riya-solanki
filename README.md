@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Holographic Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=RIYA%20SOLANKI&fontSize=70&color=0:0ff0fc,50:7b2fff,100:ff2cf1&fontColor=ffffff&stroke=0ff0fc&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=FULL%20STACK%20%7C%20AI%20SYSTEMS%20%7C%20ML%20RESEARCHER&descAlignY=75&descSize=16&descColor=a8f0ff"/>
 
 <!-- Scanning Animation -->
